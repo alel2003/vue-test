@@ -1,0 +1,419 @@
+[
+  {
+    "slug": "honor-x9c-1",
+    "title": "Смартфон HONOR X9c (вариант 1)",
+    "labels": [
+      {
+        "id": 1,
+        "type": "payment_plan"
+      },
+      {
+        "id": 2,
+        "type": "success_test"
+      },
+      {
+        "id": 3,
+        "type": "warranty"
+      }
+    ],
+    "characteristics": {
+      "matrixType": "AMOLED",
+      "screenDiagonal": "6.78\"",
+      "screenResolution": "2700x1224",
+      "internalMemory": "128/256/512 Гб",
+      "ramMemory": "8/12  Гб",
+      "pixelDensity": "437 ppi",
+      "brightness": "4000 кд/м²",
+      "refreshRate": "120 Гц",
+      "os": "Android",
+      "osVersion": "Android 14",
+      "memoryCardSlot": "Нет",
+      "mainCameraResolution": "108 Мп",
+      "secondaryCameraResolution": "5 Мп",
+      "mainCameraAperture": "F/1.75",
+      "secondaryCameraAperture": "F/2.2",
+      "frontCameraResolution": "16 Мп",
+      "frontCameraAperture": "F/2.45",
+      "videoResolution": "3840x2160 (UltraHD, 4K)",
+      "videoFramerate": "30 к/с",
+      "battery": "6600 мА·ч",
+      "simFormat": "Nano-SIM",
+      "cameraFeatures": [
+        "Водяной знак",
+        "Документы",
+        "Замедленная съёмка",
+        "Искусственный интеллект (ИИ)",
+        "Оптическая стабилизация",
+        "Панорамная съёмка",
+        "Портретный режим",
+        "Профессиональный",
+        "Распознавание улыбки",
+        "Съёмка HDR-фото",
+        "Съёмка в условиях недостаточной освещённости",
+        "Таймер"
+      ]
+    },
+    "colors": [
+      {
+        "id": 1,
+        "title": "Черный",
+        "color": "#000000",
+        "images": [
+          "https://avatars.mds.yandex.net/i?id=c02aecb59251ac0c0ba2d2c7140fa828_l-12472401-images-thumbs&n=13",
+          "https://avatars.mds.yandex.net/get-mpic/3631580/2a0000019789cfaa883d2d0960a5a778cb6b/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/15378816/2a0000019789cfaa87f597f149bc3c5d187a/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/16418886/2a0000019789cfaa882f1118c7fda2058e39/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/14909198/2a0000019789cfaa863da7135bd52cba53b4/optimize"
+        ],
+        "variants": [
+          {
+            "id": "black-8-256",
+            "ram": 8,
+            "storage": 256,
+            "price": 2350000,
+            "salePrice": 2490000,
+            "stock": 12,
+            "offers": [
+              {
+                "title": "Смартфон",
+                "type": "first",
+                "price": 2350000,
+                "salePrice": 2490000,
+                "installment": {
+                  "alif": {
+                    "3": 150000,
+                    "6": 180000,
+                    "9": 200000,
+                    "12": 300000
+                  },
+                  "uzum": {
+                    "3": 180000,
+                    "6": 200000,
+                    "9": 250000,
+                    "12": 300000
+                  }
+                }
+              },
+              {
+                "title": "Сим-карта Ucell",
+                "price": 2650000,
+                "type": "second",
+                "salePrice": 1950000,
+                "installment": {
+                  "alif": {
+                    "3": 200000,
+                    "6": 250000,
+                    "9": 300000,
+                    "12": 400000
+                  },
+                  "uzum": {
+                    "3": 250000,
+                    "6": 300000,
+                    "9": 400000,
+                    "12": 500000
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "black-12-512",
+            "ram": 12,
+            "storage": 512,
+            "price": 119990,
+            "salePrice": 109990,
+            "stock": 6,
+            "offers": [
+              {
+                "title": "Смартфон",
+                "type": "first",
+                "price": 2650000,
+                "salePrice": 1950000,
+                "installment": {
+                  "Alif Nasiya": {
+                    "3": 38000,
+                    "6": 19000,
+                    "9": 13000,
+                    "12": 10000
+                  },
+                  "Uzum Nasiya": {
+                    "3": 38000,
+                    "6": 19000,
+                    "9": 13000,
+                    "12": 10000
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "black-8-128",
+            "ram": 12,
+            "storage": 128,
+            "price": 1990000,
+            "salePrice": 1890000,
+            "stock": 14,
+            "offers": [
+              {
+                "title": "Сим-карта Ucell",
+                "type": "second",
+                "price": 1990000,
+                "salePrice": 1890000,
+                "installment": {
+                  "alif": {
+                    "3": 29000,
+                    "6": 15000,
+                    "9": 10000,
+                    "12": 7500
+                  },
+                  "uzum": {
+                    "3": 29000,
+                    "6": 15000,
+                    "9": 10000,
+                    "12": 8000
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Синий",
+        "color": "#0000FF",
+        "images": [
+          "https://avatars.mds.yandex.net/get-mpic/15280394/2a00000197412e1888b18417a01a75ef75e4/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/16273139/2a00000197412e1883af95de5c51e5ed2143/optimize"
+        ],
+        "variants": [
+          {
+            "id": "blue-8-256",
+            "ram": 8,
+            "storage": 512,
+            "price": 2290000,
+            "salePrice": 2190000,
+            "stock": 10,
+            "offers": [
+              {
+                "title": "Смартфон",
+                "type": "first",
+                "price": 2290000,
+                "salePrice": 2190000,
+                "installment": {
+                  "alif": {
+                    "3": 32000,
+                    "6": 16500,
+                    "9": 10800,
+                    "12": 7900
+                  },
+                  "uzum": {
+                    "3": 32000,
+                    "6": 16500,
+                    "9": 10800,
+                    "12": 8200
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "gray-12-256",
+            "ram": 12,
+            "storage": 512,
+            "price": 3290000,
+            "salePrice": 2190000,
+            "stock": 10,
+            "offers": [
+              {
+                "title": "Смартфон",
+                "type": "first",
+                "price": 3290000,
+                "salePrice": 2190000,
+                "installment": {
+                  "alif": {
+                    "3": 32000,
+                    "6": 16500,
+                    "9": 10800,
+                    "12": 7900
+                  },
+                  "uzum": {
+                    "3": 32000,
+                    "6": 16500,
+                    "9": 10800,
+                    "12": 8200
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "honor-x9c-2",
+    "title": "Смартфон HONOR X9c (вариант 2)",
+    "labels": [
+      {
+        "id": 1,
+        "type": "payment_plan"
+      },
+      {
+        "id": 3,
+        "type": "warranty"
+      }
+    ],
+    "characteristics": {
+      "matrixType": "AMOLED",
+      "screenDiagonal": "6.78",
+      "screenResolution": "2700x1224",
+      "internalMemory": "128/256 Гб",
+      "ramMemory": "8/12  Гб",
+      "pixelDensity": "437 ppi",
+      "brightness": "4000 кд/м²",
+      "refreshRate": "120 Гц",
+      "os": "Android",
+      "osVersion": "Android 14",
+      "memoryCardSlot": "Нет",
+      "mainCameraResolution": "108 Мп",
+      "secondaryCameraResolution": "5 Мп",
+      "mainCameraAperture": "F/1.75",
+      "secondaryCameraAperture": "F/2.2",
+      "frontCameraResolution": "16 Мп",
+      "frontCameraAperture": "F/2.45",
+      "videoResolution": "3840x2160 (UltraHD, 4K)",
+      "videoFramerate": "30 к/с",
+      "battery": "6600 мА·ч",
+      "simFormat": "Nano-SIM",
+      "cameraFeatures": [
+        "Водяной знак",
+        "Документы",
+        "Замедленная съёмка",
+        "Искусственный интеллект (ИИ)",
+        "Оптическая стабилизация",
+        "Панорамная съёмка",
+        "Портретный режим",
+        "Профессиональный",
+        "Распознавание улыбки",
+        "Съёмка HDR-фото",
+        "Съёмка в условиях недостаточной освещённости",
+        "Таймер"
+      ]
+    },
+    "colors": [
+      {
+        "id": 1,
+        "title": "Серый",
+        "color": "#888888",
+        "images": [
+          "https://avatars.mds.yandex.net/get-mpic/13526260/2a00000196807a1fa4f39f5e7c87da442bcf/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/4055794/2a000001961488e9cb8d0a5c24c4a5f4f932/optimize"
+        ],
+        "variants": [
+          {
+            "id": "gray-8-128",
+            "ram": 8,
+            "storage": 128,
+            "price": 1890000,
+            "salePrice": 1790000,
+            "stock": 8,
+            "offers": [
+              {
+                "title": "Смартфон",
+                "type": "first",
+                "price": 1890000,
+                "salePrice": 1790000,
+                "installment": {
+                  "alif": {
+                    "3": 28000,
+                    "6": 14500,
+                    "9": 9800,
+                    "12": 7200
+                  },
+                  "uzum": {
+                    "3": 28000,
+                    "6": 14500,
+                    "9": 9800,
+                    "12": 7500
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "gray-12-256",
+            "ram": 12,
+            "storage": 256,
+            "price": 2490000,
+            "salePrice": 2390000,
+            "stock": 5,
+            "offers": [
+              {
+                "title": "Чехол",
+                "type": "second",
+                "price": 2590000,
+                "salePrice": 2390000,
+                "installment": {
+                  "alif": {
+                    "3": 35000,
+                    "6": 17500,
+                    "9": 11800,
+                    "12": 9100
+                  },
+                  "uzum": {
+                    "3": 35000,
+                    "6": 17500,
+                    "9": 11800,
+                    "12": 9300
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Оранжевый",
+        "color": "#FFA500",
+        "images": [
+          "https://avatars.mds.yandex.net/get-mpic/5254153/2a000001919336777d16e327bdd96ed3c26e/optimize",
+          "https://avatars.mds.yandex.net/get-mpic/12569700/2a000001919336773e2060677bdaad4ecf40/optimize"
+        ],
+        "variants": [
+          {
+            "id": "orange-12-512",
+            "ram": 12,
+            "storage": 512,
+            "price": 2650000,
+            "salePrice": 2550000,
+            "stock": 6,
+            "offers": [
+              {
+                "title": "Чехол",
+                "type": "second",
+                "price": 2750000,
+                "salePrice": 2550000,
+                "installment": {
+                  "alif": {
+                    "3": 37000,
+                    "6": 18500,
+                    "9": 12500,
+                    "12": 9700
+                  },
+                  "uzum": {
+                    "3": 37000,
+                    "6": 18500,
+                    "9": 12500,
+                    "12": 10000
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+@import "./modules/_font.css";
+
+@import "tailwindcss";
+
+@layer base {
+    body {
+        font-family: "Euclid", sans-serif;
+        background-color: #f7f9fe;
+    }
+}
+
+@layer components {
+    .custom-container {
+        @apply container px-5 mx-auto;
+    }
+    .section-title {
+        @apply text-[20px] font-semibold leading-[23px];
+    }
+    .hero-pagination .swiper-pagination-bullet {
+        background-color: black !important;
+        height: 4px !important;
+        width: 8px !important;
+        border-radius: 999px !important;
+    }
+
+    .hero-pagination .swiper-pagination-bullet-active {
+        background-color: #93ef0f !important; 
+        width: 32px !important;
+    }
+
+    .similar-pagination {
+        width: fit-content !important;
+    }
+
+     .similar-pagination .swiper-pagination-bullet {
+        background-color: white !important;
+        height: 6px !important;
+        width: 6px !important;
+        border-radius: 999px !important;
+    }
+
+    .similar-pagination .swiper-pagination-bullet-active {
+        background-color: #93ef0f !important; 
+    }
+}
+
+
+@layer utilities {
+  .writing-vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+}
